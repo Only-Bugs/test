@@ -14,5 +14,3 @@ env/
 
 # Docker files
 Dockerfile.*
-
-# anything you don’t need in the image
